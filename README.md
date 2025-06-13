@@ -5,6 +5,6 @@
 
   # lqb-lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[lqb-lab.github.io/liu-lab](https://lqb-lab.github.io/liu-lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
