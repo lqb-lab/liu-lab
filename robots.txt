@@ -1,1 +1,1 @@
-Sitemap: https://lqb-lab.github.io/liu-lab/sitemap.xml
+Sitemap: https://lqb-lab.github.io/sitemap.xml
